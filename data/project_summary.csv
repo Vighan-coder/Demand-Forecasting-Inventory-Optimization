@@ -1,0 +1,8 @@
+Metric,Value
+Training Rows,941389
+Validation Rows,68015
+Baseline MAE,1250.55
+Forecasting MAE,761.19
+Baseline RMSE,1891.15
+Forecasting RMSE,1447.47
+MAE Improvement,39.13%
