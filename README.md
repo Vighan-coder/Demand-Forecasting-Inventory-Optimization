@@ -12,6 +12,16 @@ This project builds a data-driven pipeline:
 
 The project uses the Rossmann Store Sales dataset and develops a Random Forest forecasting model with historical demand features.
 
+## Dashboard
+
+An interactive Streamlit dashboard was built to explore:
+
+- Actual vs predicted sales
+- Model performance
+- Feature importance
+- Store-level forecasts
+- Safety stock and reorder points
+
 ## Objectives
 
 - Explore historical retail sales data
