@@ -209,7 +209,6 @@ Add richer calendar and holiday features
 Implement recursive future forecasting
 Incorporate actual lead-time data
 Add current inventory levels
-Build an interactive Streamlit dashboard
 Add automated retraining and monitoring
 Deploy the forecasting API
 Tools & Technologies
