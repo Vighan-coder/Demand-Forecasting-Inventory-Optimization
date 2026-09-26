@@ -202,25 +202,16 @@ Product-level inventory is not modeled.
 
 A production system would incorporate real inventory levels, product-level demand, supplier lead times, service-level requirements, ordering constraints and operational costs.
 
-Future Improvements
-Add store operating status to forecasting
-Use gradient boosting models such as XGBoost or LightGBM
-Add richer calendar and holiday features
-Implement recursive future forecasting
-Incorporate actual lead-time data
-Add current inventory levels
-Add automated retraining and monitoring
-Deploy the forecasting API
-Tools & Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-Jupyter Notebook
-Random Forest
-Time-series feature engineering
-Inventory optimization
+## Future Improvements
+
+- Improve the handling of closed-store days using the `Open` feature
+- Experiment with additional forecasting models
+- Add product-level inventory forecasting
+- Incorporate actual supplier lead times
+- Add current inventory levels and reorder alerts
+- Improve safety-stock estimation using lead-time variability
+- Deploy the Streamlit dashboard publicly
+
 Author
 
 Vighan Raj Verma
